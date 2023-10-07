@@ -1,14 +1,16 @@
-## Sudoku Game with AI Solver
+# Sudoku Game with AI Solver
 
-**Challenge your mind and have fun with this classic Sudoku game!**
+## Video Demo:  <URL HERE>
 
 ## Description:
+**Challenge your mind and have fun with this classic Sudoku game!**
+
 ### Features
 
 * Multiple difficulty levels
 * AI solver to help you get unstuck
 * Clean and user-friendly interface
-* Track your progress and stats
+* Track your progress
 
 ### How to play
 
@@ -22,10 +24,5 @@ To use the AI solver, simply click on the "Solve" button. The solver will automa
 * If you're stuck, try using the AI solver.
 * Don't be afraid to make mistakes! You can always undo your last move.
 
-## Unique Features
-
-* This Sudoku game is the only one with a built-in AI solver that can help you solve any puzzle, no matter how difficult.
-* The game also features a clean and user-friendly interface, making it easy to play and enjoy.
-* Additionally, the game tracks your progress and stats so you can see how you're improving over time.
 
 
